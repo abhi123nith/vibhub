@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061772311330",
+    "project_id": "vibhub-cba0d",
+    "storage_bucket": "vibhub-cba0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061772311330:android:6219e0ba2d552b6f97437b",
+        "android_client_info": {
+          "package_name": "com.example.vibhub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFQ0lry4e1yipDoGsaPH2hwvBT7A1xI60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
